@@ -1,4 +1,4 @@
-<sup>📒 Readme ver 1.0 30.09.2025 13:20<sup/>
+<sup>📒 Readme ver 1.0 30.09.2025 10:38<sup/>
 <p align="center">
 <img width="3680" height="2192" alt="CartItem (1)" src="https://github.com/user-attachments/assets/f7903776-8e1a-4c75-989c-a90952bac68e" />
 </p>
