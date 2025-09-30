@@ -1,4 +1,4 @@
-<sup>📒 Readme ver 1.0 30.09.2025 10:52<sup/>
+<sup>📒 Readme ver 1.0 30.09.2025 12:21<sup/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bd56adec-e852-4ce9-8d08-c3e5509f5466">
