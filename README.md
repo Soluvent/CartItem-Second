@@ -3,6 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bd56adec-e852-4ce9-8d08-c3e5509f5466">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e66f38cf-7b3d-46fe-a711-07ba0ed46063">
+  <img alt="Fallback image description" src="https://github.com/user-attachments/assets/e66f38cf-7b3d-46fe-a711-07ba0ed46063">
 </picture>
 
 # `Лабораторна робота` `№2` `Основи роботи з класами та об'єктами. Інкапсуляція. Конструктор. Модифікатори доступу`
