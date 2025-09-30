@@ -1,6 +1,7 @@
 <sup>📒 Readme ver 1.0 30.09.2025 10:52<sup/>
 <p align="center">
-<img width="3680" height="2192" alt="CartItem (1)" src="https://github.com/user-attachments/assets/f7903776-8e1a-4c75-989c-a90952bac68e" />
+ <img src="https://github.com/user-attachments/assets/e66f38cf-7b3d-46fe-a711-07ba0ed46063#gh-light-mode-only"
+ <img src="https://github.com/user-attachments/assets/bd56adec-e852-4ce9-8d08-c3e5509f5466#gh-dark-mode-only"
 </p>
 
 # `Лабораторна робота` `№2` `Основи роботи з класами та об'єктами. Інкапсуляція. Конструктор. Модифікатори доступу`
