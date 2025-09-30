@@ -6,7 +6,7 @@
   <img alt="Fallback image description" src="https://github.com/user-attachments/assets/e66f38cf-7b3d-46fe-a711-07ba0ed46063">
 </picture>
 
-# `Лабораторна робота` `№2` `Основи роботи з класами та об'єктами. Інкапсуляція. Конструктор. Модифікатори доступу`
+# `Лабораторна робота` `№2` `Основи роботи з класами та об'єктами. Конструктор.`
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](https://docs.google.com/document/d/19unIe4WaBjPMkZOxbllCGPG0m37LRf8r/edit?usp=drive_link&ouid=110536394177911584125&rtpof=true&sd=true)
 [![](https://img.shields.io/badge/-@Soluvent-%23181717?style=round-square&logo=github)](https://github.com/Soluvent)
@@ -90,7 +90,7 @@ graph LR;
     classDef step4 fill:#E0F7FA,stroke:#4DD0E1,stroke-width:2px,rx:16,ry:16,color:#00838F
 ```
 
-## `🛠 Реалізація коду `
+## `🛠️ Реалізація коду `
 
 ### **Завдання 1: Клас "Товар" (Item)**
 > [!NOTE]
